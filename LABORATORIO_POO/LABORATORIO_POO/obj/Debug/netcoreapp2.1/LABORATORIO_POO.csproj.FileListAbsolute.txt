@@ -1,0 +1,11 @@
+/Users/JaviGuzman/Desktop/LABORATORIO_POO/LABORATORIO_POO/obj/Debug/netcoreapp2.1/LABORATORIO_POO.csprojAssemblyReference.cache
+/Users/JaviGuzman/Desktop/LABORATORIO_POO/LABORATORIO_POO/obj/Debug/netcoreapp2.1/LABORATORIO_POO.csproj.CoreCompileInputs.cache
+/Users/JaviGuzman/Desktop/LABORATORIO_POO/LABORATORIO_POO/obj/Debug/netcoreapp2.1/LABORATORIO_POO.AssemblyInfoInputs.cache
+/Users/JaviGuzman/Desktop/LABORATORIO_POO/LABORATORIO_POO/obj/Debug/netcoreapp2.1/LABORATORIO_POO.AssemblyInfo.cs
+/Users/JaviGuzman/Desktop/LABORATORIO_POO/LABORATORIO_POO/bin/Debug/netcoreapp2.1/LABORATORIO_POO.deps.json
+/Users/JaviGuzman/Desktop/LABORATORIO_POO/LABORATORIO_POO/bin/Debug/netcoreapp2.1/LABORATORIO_POO.runtimeconfig.json
+/Users/JaviGuzman/Desktop/LABORATORIO_POO/LABORATORIO_POO/bin/Debug/netcoreapp2.1/LABORATORIO_POO.runtimeconfig.dev.json
+/Users/JaviGuzman/Desktop/LABORATORIO_POO/LABORATORIO_POO/bin/Debug/netcoreapp2.1/LABORATORIO_POO.dll
+/Users/JaviGuzman/Desktop/LABORATORIO_POO/LABORATORIO_POO/bin/Debug/netcoreapp2.1/LABORATORIO_POO.pdb
+/Users/JaviGuzman/Desktop/LABORATORIO_POO/LABORATORIO_POO/obj/Debug/netcoreapp2.1/LABORATORIO_POO.dll
+/Users/JaviGuzman/Desktop/LABORATORIO_POO/LABORATORIO_POO/obj/Debug/netcoreapp2.1/LABORATORIO_POO.pdb
